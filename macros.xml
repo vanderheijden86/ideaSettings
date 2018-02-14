@@ -1,12 +1,59 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;noname&gt;">
-      <action id="EditorBackSpace" />
-      <action id="EditorDown" />
-    </macro>
     <macro name="openDefenitionInOppositeGroup">
       <action id="GotoDeclaration" />
       <action id="MoveEditorToOppositeTabGroup" />
+    </macro>
+    <macro name="check">
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="GotoDeclaration" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="MoveEditorToOppositeTabGroup" />
+    </macro>
+    <macro name="&lt;noname&gt;">
+      <action id="GotoDeclaration" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="MoveEditorToOppositeTabGroup" />
+      <action id="NextSplitter" />
+      <action id="PlaybackLastMacro" />
+      <action id="GotoDeclaration" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="MoveEditorToOppositeTabGroup" />
+      <action id="NextSplitter" />
+    </macro>
+    <macro name="showDefenitionInOtherWindow">
+      <action id="GotoDeclaration" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="MoveEditorToOppositeTabGroup" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="NextSplitter" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="PlaybackLastMacro" />
+      <action id="GotoDeclaration" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="MoveEditorToOppositeTabGroup" />
+      <action id="NextSplitter" />
+    </macro>
+    <macro name="ShowDefenitionInOtherWindow">
+      <action id="GotoDeclaration" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="MoveEditorToOppositeTabGroup" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="NextSplitter" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
     </macro>
   </component>
 </application>
