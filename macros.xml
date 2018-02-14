@@ -4,5 +4,9 @@
       <action id="EditorBackSpace" />
       <action id="EditorDown" />
     </macro>
+    <macro name="openDefenitionInOppositeGroup">
+      <action id="GotoDeclaration" />
+      <action id="MoveEditorToOppositeTabGroup" />
+    </macro>
   </component>
 </application>

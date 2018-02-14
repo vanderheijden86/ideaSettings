@@ -36,6 +36,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id="BaseOnThisFunction" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
@@ -218,6 +219,9 @@
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="JumpToLastWindow" />
+  <action id="Macro.openDefenitionInOppositeGroup">
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="d" />
+  </action>
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -305,6 +309,9 @@
   </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmark8" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.BaseOnThisType" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
