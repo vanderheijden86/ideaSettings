@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="BaseOnThisFunction" />
+  <action id="CloseAllUnpinnedEditors">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="q" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
@@ -250,6 +253,9 @@
   </action>
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
   </action>
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="f4" />
