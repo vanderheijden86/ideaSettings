@@ -232,6 +232,9 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -305,7 +308,6 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="3" />
-    <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="f3" />
@@ -350,6 +352,14 @@
   <action id="XDebugger.SetValue" />
   <action id="context.load">
     <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="momomo.com.Intellij.MoveTab.actions.MoveTabLeft">
+    <keyboard-shortcut first-keystroke="shift meta page_up" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="momomo.com.Intellij.MoveTab.actions.MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift meta page_down" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="tasks.close">
     <keyboard-shortcut first-keystroke="shift alt w" />
