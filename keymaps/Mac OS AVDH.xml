@@ -255,7 +255,7 @@
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="PinActiveTab">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="p" />
   </action>
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="f4" />
