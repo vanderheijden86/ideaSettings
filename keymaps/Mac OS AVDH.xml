@@ -109,6 +109,7 @@
   </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
