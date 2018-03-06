@@ -356,7 +356,8 @@
   </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmark8" />
-  <action id="ToggleBreakpointEnabled">
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
   </action>
   <action id="TypeHierarchy" />
