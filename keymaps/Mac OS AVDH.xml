@@ -356,6 +356,9 @@
   </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmark8" />
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
