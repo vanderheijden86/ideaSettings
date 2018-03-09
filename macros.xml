@@ -68,5 +68,16 @@
       <action id="EditorDelete" />
       <action id="EditorDown" />
     </macro>
+    <macro name="a">
+      <typing text-keycode="84:0;69:0;83:0;84:0">test</typing>
+      <action id="EditorDown" />
+      <action id="EditorChooseLookupItem" />
+      <action id="EditorToggleStickySelection" />
+      <action id="EditorNextWord" />
+      <action id="EditorLeft" />
+      <action id="EditorDelete" />
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+    </macro>
   </component>
 </application>
