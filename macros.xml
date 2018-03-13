@@ -55,13 +55,6 @@
       <action id="EditorLeft" />
       <action id="EditorLeft" />
     </macro>
-    <macro name="bla">
-      <typing text-keycode="86:0;65:0;82:0;32:0">var&amp;#x20;</typing>
-      <action id="EditorDown" />
-      <action id="EditorLineStart" />
-      <action id="EditorLineStart" />
-      <action id="EditorLineStart" />
-    </macro>
     <macro name="d">
       <action id="EditorToggleStickySelection" />
       <action id="EditorNextWord" />
@@ -78,6 +71,49 @@
       <action id="EditorDelete" />
       <action id="EditorDown" />
       <action id="EditorLineStart" />
+    </macro>
+    <macro name="bla">
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+      <action id="EditorToggleStickySelection" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <typing text-keycode="82:0;69:0;83:0;85:0;76:0;84:0;32:0;61:0">result&amp;#x20;=</typing>
+      <action id="EditorRight" />
+      <action id="EditorLineStart" />
+      <typing text-keycode="86:0;65:0;76:0;32:0">val&amp;#x20;</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorToggleStickySelection" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorCut" />
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+      <typing text-keycode="87:0">w</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="82:0;69:0;84:0;85:0;82:0;78:0;32:0">return&amp;#x20;</typing>
+      <action id="$Paste" />
     </macro>
   </component>
 </application>
