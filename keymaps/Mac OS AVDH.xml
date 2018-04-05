@@ -388,6 +388,9 @@
   <action id="context.load">
     <keyboard-shortcut first-keystroke="meta f12" />
   </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="r" />
+  </action>
   <action id="momomo.com.Intellij.MoveTab.actions.MoveTabLeft">
     <keyboard-shortcut first-keystroke="shift meta page_up" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />

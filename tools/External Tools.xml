@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="runnodes" description="runnodes" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Documents/codex_corda/codex1_corda_dapp/build/nodes/runnodes" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/codex_corda/codex1_corda_dapp/build/nodes" />
+    </exec>
+  </tool>
+</toolSet>
