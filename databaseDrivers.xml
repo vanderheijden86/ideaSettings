@@ -5,8 +5,11 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="h2.unified">
-      <artifact name="H2" use="true" />
+      <artifact name="H2" use="true" version="1.4.196" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
@@ -34,6 +37,10 @@
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="mariadb">
+      <artifact name="MariaDB Connector J" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="derby.remote">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
@@ -48,10 +55,12 @@
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
       <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="db2">
       <artifact name="DB2" use="true" />
