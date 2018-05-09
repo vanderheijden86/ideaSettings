@@ -127,5 +127,15 @@
       <action id="EditorDelete" />
       <action id="SaveAll" />
     </macro>
+    <macro name="ENUMS">
+      <action id="EditorToggleStickySelection" />
+      <action id="EditorLineEnd" />
+      <action id="EditorCopy" />
+      <typing text-keycode="0:1;0:1">(&quot;</typing>
+      <action id="EditorPaste" />
+      <action id="EditorLineEnd" />
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+    </macro>
   </component>
 </application>
