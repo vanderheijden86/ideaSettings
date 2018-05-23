@@ -137,5 +137,13 @@
       <action id="EditorDown" />
       <action id="EditorLineStart" />
     </macro>
+    <macro name="EMN">
+      <action id="EditorToggleStickySelection" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDelete" />
+      <action id="EditorDown" />
+      <shortuct text="F4" />
+    </macro>
   </component>
 </application>
