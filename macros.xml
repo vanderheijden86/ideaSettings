@@ -145,5 +145,12 @@
       <action id="EditorDown" />
       <shortuct text="F4" />
     </macro>
+    <macro name="remove override">
+      <action id="EditorToggleStickySelection" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDelete" />
+      <action id="EditorDown" />
+    </macro>
   </component>
 </application>
