@@ -152,5 +152,11 @@
       <action id="EditorDelete" />
       <action id="EditorDown" />
     </macro>
+    <macro name="remove open">
+      <action id="EditorToggleStickySelection" />
+      <action id="EditorNextWord" />
+      <action id="EditorDelete" />
+      <action id="EditorDown" />
+    </macro>
   </component>
 </application>
