@@ -99,34 +99,6 @@
       <action id="EditorDeleteToWordStart" />
       <action id="EditorBackSpace" />
     </macro>
-    <macro name="bla">
-      <action id="ViewSource" />
-      <action id="ActivateProjectToolWindow" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <shortuct text="control O" />
-      <shortuct text="control O" />
-      <action id="EditorUp" />
-      <action id="OverrideMethods" />
-      <shortuct text="ENTER" />
-      <action id="EditorDown" />
-      <action id="EditorToggleStickySelection" />
-      <action id="EditorUp" />
-      <action id="EditorUp" />
-      <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorDelete" />
-      <action id="SaveAll" />
-    </macro>
     <macro name="ENUMS">
       <action id="EditorToggleStickySelection" />
       <action id="EditorLineEnd" />
@@ -157,6 +129,26 @@
       <action id="EditorNextWord" />
       <action id="EditorDelete" />
       <action id="EditorDown" />
+    </macro>
+    <macro name="bla">
+      <typing text-keycode="84:0;72:0;73:0;83:0;46:0">this.</typing>
+      <action id="EditorEscape" />
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+    </macro>
+    <macro name="bladie">
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorToggleStickySelection" />
+      <action id="EditorLineEnd" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="EditorDown" />
+      <action id="EditorLineEnd" />
     </macro>
   </component>
 </application>
