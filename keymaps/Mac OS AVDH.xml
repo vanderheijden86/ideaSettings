@@ -121,6 +121,10 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
@@ -157,9 +161,6 @@
   </action>
   <action id="EditorToggleShowGutterIcons">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="g" />
-  </action>
-  <action id="EditorToggleStickySelection">
-    <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
