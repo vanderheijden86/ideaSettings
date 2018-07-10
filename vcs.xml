@@ -1,6 +1,17 @@
 <application>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://inforscore.visualstudio.com" />
+          <option name="userName" value="vanderheijden86@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bonnema.visualstudio.com" />
+          <option name="userName" value="vanderheijden86@gmail.com" />
+        </UrlAndUserName>
+      </list>
+    </option>
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
