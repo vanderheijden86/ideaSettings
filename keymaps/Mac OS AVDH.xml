@@ -131,6 +131,9 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -217,7 +220,9 @@
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="e" />
+  </action>
   <action id="GotoSuperMethod" />
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="meta down" />
