@@ -213,6 +213,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="c" />
+  </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
