@@ -16,6 +16,9 @@
     <keyboard-shortcut first-keystroke="meta 5" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="ActivateProblemsToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="f2" />
