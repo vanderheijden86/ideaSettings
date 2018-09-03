@@ -294,6 +294,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="space" />
   </action>
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="meta n" />
