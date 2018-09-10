@@ -183,6 +183,9 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ExternalSystem.EditRunConfiguration">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
