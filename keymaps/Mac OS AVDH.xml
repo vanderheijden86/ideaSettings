@@ -47,6 +47,10 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="BaseOnThisFunction" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
+  </action>
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="q" />
   </action>
@@ -310,10 +314,6 @@
   </action>
   <action id="RemoteHostView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
-  </action>
-  <action id="Rerun">
-    <keyboard-shortcut first-keystroke="meta r" />
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
   </action>
   <action id="Run" />
   <action id="RunClass">
