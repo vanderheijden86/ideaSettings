@@ -257,7 +257,9 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="e" />
   </action>
-  <action id="GotoSuperMethod" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl meta period" />
+  </action>
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
