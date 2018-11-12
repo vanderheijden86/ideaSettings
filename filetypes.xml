@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="FlowSupportUtil" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
