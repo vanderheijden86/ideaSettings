@@ -19,6 +19,10 @@
   <action id="ActivateDockerToolWindow">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="ActivateProblemsToolWindow">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
