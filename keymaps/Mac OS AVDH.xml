@@ -410,6 +410,9 @@
   </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmark8" />
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
+  </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
