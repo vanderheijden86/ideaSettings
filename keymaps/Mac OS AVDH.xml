@@ -16,7 +16,7 @@
     <keyboard-shortcut first-keystroke="meta 5" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
-  <action id="ActivateDockerToolWindow">
+  <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="ActivateHierarchyToolWindow">
