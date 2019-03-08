@@ -246,8 +246,8 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
@@ -337,7 +337,7 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta e" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="r" />
-    <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
