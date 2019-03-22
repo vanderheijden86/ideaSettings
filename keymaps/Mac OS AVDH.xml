@@ -429,7 +429,9 @@
     <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
   </action>
-  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UML.ZoomIn">
