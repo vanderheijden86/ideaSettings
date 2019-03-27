@@ -49,10 +49,6 @@
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="BaseOnThisFunction" />
-  <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
-  </action>
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="q" />
   </action>
@@ -343,6 +339,10 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="tab" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="space" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
   </action>
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="meta n" />
