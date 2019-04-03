@@ -23,6 +23,9 @@
     <keyboard-shortcut first-keystroke="meta 8" />
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="ActivateProblemsToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="f2" />
@@ -324,10 +327,6 @@
   </action>
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift alt tab" />
-    <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
