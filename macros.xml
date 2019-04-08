@@ -10,14 +10,6 @@
       <action id="EditorLineStart" />
       <action id="PlaybackLastMacro" />
     </macro>
-    <macro name="bla">
-      <action id="EditorNextWord" />
-      <action id="EditorLineEndWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="EditorLineStart" />
-      <action id="EditorDown" />
-    </macro>
     <macro name="dk">
       <action id="EditorLineEnd" />
       <action id="EditorLeft" />
@@ -35,6 +27,13 @@
       <action id="EditorBackSpace" />
       <action id="EditorDown" />
       <action id="EditorLineStart" />
+    </macro>
+    <macro name="bla">
+      <action id="EditorPaste" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="0:1;0:1">(&quot;</typing>
+      <action id="EditorEscape" />
     </macro>
   </component>
 </application>
