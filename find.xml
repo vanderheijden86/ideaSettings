@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +17,7 @@
     <mask>*.ts</mask>
     <mask>*.gradle</mask>
     <mask>*.gradle</mask>
-    <mask>*.kt</mask>
     <mask>*.json</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
