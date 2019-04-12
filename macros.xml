@@ -35,5 +35,17 @@
       <typing text-keycode="0:1;0:1">(&quot;</typing>
       <action id="EditorEscape" />
     </macro>
+    <macro name="removeREINSURNACE_AGREEMENT">
+      <action id="RenameElement" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="$Undo" />
+      <action id="EditorLeft" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="NextTemplateVariable" />
+    </macro>
   </component>
 </application>
