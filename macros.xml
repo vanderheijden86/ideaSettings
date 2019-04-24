@@ -54,5 +54,13 @@
       <action id="EditorLeft" />
       <typing text-keycode="0:1">)</typing>
     </macro>
+    <macro name="url">
+      <typing text-keycode="85:1;82:0;76:0;0:1">Url(</typing>
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="80:0;79:0;82:0;84:0;32:0;61:0;32:0">port&amp;#x20;=&amp;#x20;</typing>
+      <action id="EditorNextWord" />
+      <typing text-keycode="0:1">)</typing>
+    </macro>
   </component>
 </application>
