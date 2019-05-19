@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,7 +19,7 @@
     <mask>*.gradle</mask>
     <mask>*.gradle</mask>
     <mask>*.ts</mask>
-    <mask>*.kt</mask>
     <mask>*.json</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
