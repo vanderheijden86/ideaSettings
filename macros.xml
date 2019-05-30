@@ -62,5 +62,21 @@
       <action id="EditorNextWord" />
       <typing text-keycode="0:1">)</typing>
     </macro>
+    <macro name="refactorAPI">
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="46:0;80:0;79:0;83:0;84:0">.post</typing>
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="0:1">(</typing>
+      <action id="EditorLineEnd" />
+    </macro>
   </component>
 </application>
