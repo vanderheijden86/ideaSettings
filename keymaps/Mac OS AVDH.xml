@@ -33,6 +33,9 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ActivateRunDashboardToolWindow">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
     <keyboard-shortcut first-keystroke="alt r" />
