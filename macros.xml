@@ -78,5 +78,10 @@
       <typing text-keycode="0:1">(</typing>
       <action id="EditorLineEnd" />
     </macro>
+    <macro name="removeast">
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
+    </macro>
   </component>
 </application>
