@@ -3,11 +3,12 @@
     <property name="created">2018-03-16T22:06:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-10-08T22:15:13</property>
+    <property name="modified">2019-06-16T00:43:41</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="77b767" />
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="GUTTER_BACKGROUND" value="14151e" />
   </colors>
   <attributes>
@@ -33,12 +34,21 @@
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="629755" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="aa2611" />
       </value>
     </option>
     <option name="TEXT">
