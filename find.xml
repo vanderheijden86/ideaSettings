@@ -18,9 +18,9 @@
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.ktby</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
     <mask>*.gradle</mask>
   </component>
 </application>
