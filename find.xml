@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,7 +14,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
-    <mask>*.yml</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
@@ -22,5 +21,6 @@
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
