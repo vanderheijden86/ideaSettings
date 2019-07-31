@@ -12,4 +12,5 @@
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
 </application>
