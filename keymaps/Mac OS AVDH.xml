@@ -59,6 +59,7 @@
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="BaseOnThisFunction" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
@@ -119,6 +120,10 @@
   <action id="Debugger.EditCustomField" />
   <action id="Debugger.EditFrameSource">
     <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="Diff.FocusOppositePane">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="DomCollectionControl.Edit">
     <keyboard-shortcut first-keystroke="meta down" />
@@ -192,6 +197,9 @@
   </action>
   <action id="EditorToggleStickySelection">
     <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -327,7 +335,9 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
-  <action id="NextDiff" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="f7" />
@@ -337,6 +347,9 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="OpenFileEditorInBlankDiffWindow">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="w" />
   </action>
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="meta down" />
@@ -350,6 +363,10 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
@@ -410,9 +427,11 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="ShowContent" />
   <action id="ShowExecutionPoint" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
@@ -458,6 +477,7 @@
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark" />
   <action id="ToggleBookmark8" />
   <action id="ToggleInlineHintsAction">
