@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="FlowSupportUtil" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="network-parameters" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
