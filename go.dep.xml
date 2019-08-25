@@ -1,0 +1,9 @@
+<application>
+  <component name="GoDep">
+    <exec-paths>
+      <list>
+        <option value="$USER_HOME$/go/bin/govendor" />
+      </list>
+    </exec-paths>
+  </component>
+</application>
