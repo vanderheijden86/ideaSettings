@@ -304,6 +304,10 @@
   <action id="Graph.ZoomOut" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
+  <action id="GuiDesigner.QuickJavadoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -372,10 +376,15 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="QuickActionPopup" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta e" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="r" />
     <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
