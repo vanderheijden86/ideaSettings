@@ -522,6 +522,9 @@
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="XDebugger.SetValue" />
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="context.load">
     <keyboard-shortcut first-keystroke="meta f12" />
   </action>
