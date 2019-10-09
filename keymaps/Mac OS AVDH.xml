@@ -97,9 +97,7 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
-  <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="alt enter" />
-  </action>
+  <action id="Console.TableResult.EditValue" />
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -206,7 +204,7 @@
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
-    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -441,11 +439,13 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="ServiceView.GroupByServiceGroups" />
+  <action id="SetShortcutAction" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ShowContent" />
   <action id="ShowExecutionPoint" />
+  <action id="ShowIntentionActions" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="alt home" />
