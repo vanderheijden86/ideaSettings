@@ -2,6 +2,7 @@
   <component name="GoDep">
     <exec-paths>
       <list>
+        <option value="/usr/local/bin/dep" />
         <option value="$USER_HOME$/go/bin/govendor" />
       </list>
     </exec-paths>
