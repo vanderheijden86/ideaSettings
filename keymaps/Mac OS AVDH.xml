@@ -204,7 +204,7 @@
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
-    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -445,7 +445,6 @@
   </action>
   <action id="ShowContent" />
   <action id="ShowExecutionPoint" />
-  <action id="ShowIntentionActions" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="alt home" />
