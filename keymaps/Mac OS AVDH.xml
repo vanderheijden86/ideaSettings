@@ -57,6 +57,7 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="BaseOnThisFunction" />
   <action id="ChangesView.GroupBy.Directory" />
@@ -180,10 +181,12 @@
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl 9" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -224,6 +227,7 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -280,6 +284,8 @@
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="GotoBookmark0" />
+  <action id="GotoBookmark9" />
   <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
@@ -314,6 +320,7 @@
   </action>
   <action id="Graph.ZoomIn" />
   <action id="Graph.ZoomOut" />
+  <action id="GuiDesigner.CreateListener" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="GuiDesigner.QuickJavadoc">
@@ -341,6 +348,7 @@
     <keyboard-shortcut first-keystroke="shift meta quote" />
     <keyboard-shortcut first-keystroke="alt f10" />
   </action>
+  <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="Move" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
@@ -370,6 +378,7 @@
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="OverrideMethods" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="p" />
   </action>
@@ -397,6 +406,7 @@
     <keyboard-shortcut first-keystroke="meta e" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="r" />
     <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
