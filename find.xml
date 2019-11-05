@@ -21,8 +21,8 @@
     <mask>*.go</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
-    <mask>*.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
     <mask>*.gradle</mask>
   </component>
 </application>
