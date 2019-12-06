@@ -11,6 +11,7 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="4" />
   </component>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="13" />
     <option name="FONT_FAMILY" value="Monaco" />
     <option name="LINE_SPACING" value="1.0" />
   </component>
