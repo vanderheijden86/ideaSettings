@@ -25,9 +25,9 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
-    <mask>*.gradle</mask>
     <mask>*.*</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
     <mask>*.gradle</mask>
   </component>
 </application>
