@@ -114,6 +114,7 @@
   <action id="Database.OpenDbStorageAction">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="DatabaseView.PropertiesAction" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="d" />
@@ -413,10 +414,10 @@
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="RecentFiles">
-    <keyboard-shortcut first-keystroke="meta e" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="r" />
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
