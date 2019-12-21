@@ -17,7 +17,6 @@
       <language id="Angular2Html" />
       <language id="JavaScript" />
       <language id="go" />
-      <language id="kotlin" />
       <language id="Groovy" />
       <language id="SQL" />
     </disabledLanguages>
