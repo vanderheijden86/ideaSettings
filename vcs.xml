@@ -10,6 +10,10 @@
           <option name="url" value="http://bonnema.visualstudio.com" />
           <option name="userName" value="vanderheijden86@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="vanderheijden86@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
