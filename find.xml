@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -21,11 +21,11 @@
     <mask>*.go</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
-    <mask>*.ts</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>*.gradle</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
