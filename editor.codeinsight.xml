@@ -1,6 +1,0 @@
-<application>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="100" />
-    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="4" />
-  </component>
-</application>
