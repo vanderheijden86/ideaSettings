@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -27,5 +27,6 @@
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
