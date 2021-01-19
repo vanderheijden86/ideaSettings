@@ -459,6 +459,9 @@
   <action id="RunDashboard.EditConfiguration">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="Runner.CloseAllUnpinnedViews">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="q" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="s" />
