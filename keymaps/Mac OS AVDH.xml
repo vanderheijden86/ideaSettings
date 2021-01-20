@@ -67,6 +67,9 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="q" />
+  </action>
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="q" />
   </action>
@@ -458,9 +461,6 @@
   </action>
   <action id="RunDashboard.EditConfiguration">
     <keyboard-shortcut first-keystroke="meta down" />
-  </action>
-  <action id="Runner.CloseAllUnpinnedViews">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="q" />
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
