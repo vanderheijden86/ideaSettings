@@ -40,6 +40,9 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="ActivateRunDashboardToolWindow">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
