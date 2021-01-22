@@ -50,6 +50,9 @@
     <keyboard-shortcut first-keystroke="meta 4" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ActivateSciViewToolWindow">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
