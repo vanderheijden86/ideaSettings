@@ -1,11 +1,15 @@
 <scheme name="Darcula AVDH" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-03-16T22:06:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2019-06-16T00:43:41</property>
+    <property name="modified">2021-01-23T20:07:04</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Monaco" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="77b767" />
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
@@ -48,7 +52,7 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="aa2611" />
+        <option name="FOREGROUND" value="467cda" />
       </value>
     </option>
     <option name="TEXT">
