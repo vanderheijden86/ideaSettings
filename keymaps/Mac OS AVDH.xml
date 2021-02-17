@@ -482,6 +482,9 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
+  <action id="ServiceView.ActivateKubernetesServiceViewContributor">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="ServiceView.ActivateRunDashboard">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
