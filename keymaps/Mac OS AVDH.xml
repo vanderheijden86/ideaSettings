@@ -113,9 +113,6 @@
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="CopyElement" />
-  <action id="CopyReferencePopup">
-    <keyboard-shortcut first-keystroke="f9" />
-  </action>
   <action id="DSM.OpenInEditor">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
